@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.spec
+*.exe
+agent_config.json
+servers.json
+parasoft-license-reports/
+installer_output/
+logo_b64.txt
